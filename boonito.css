@@ -1,0 +1,176 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.topnav{
+    position: fixed;
+    
+}
+.logo{
+    position: relative;
+    left: 72px;
+    top:16px;
+    color: black;
+    font-size: large;
+}
+.search{
+    position: relative;
+    top: 16px;
+    left: 120px;
+    width: 700px;
+}
+.singin{
+    position: relative;
+    left: 930px;
+    top: -10px;
+    padding-left: 16px;
+
+}
+.sing{
+    position: relative;
+    top: -8px;
+    padding-left: 10px;
+}
+.icon1{
+    position: relative;
+    left: 10px;
+}
+.icon{
+    position: relative;
+    left: 10px;
+}
+.navbar ul li a{
+    text-decoration: none; 
+    color: black;
+}
+.navbar ul li{
+    display: inline;
+    padding-left: 50px;
+}
+.navbar{
+    position: relative;
+    left: 290px;
+    padding-top: 18px;
+    font-size: 18px;
+    font-weight: 900;
+}
+.hero-image {
+    background-image: url("/w3images/photographer.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 1170px;
+    height: 200px;
+    top: 12px;
+    left: 60px;
+}
+.img{
+    position: absolute  ;
+    width: 200px;
+    height: 200px;
+    left: 16px;
+    top: 55px;
+}
+.content{
+    position: relative;
+    left: 235px;
+    top: 110px;
+}
+.review{
+    position: relative;
+    left: 150px;
+}
+.head{
+    padding-bottom: 8px;
+}
+.message{
+    position: relative;
+    left: 890px;
+}
+.msg{
+    position: relative;
+    background-color: green;
+    padding: 16px 60px;
+    border: none;
+    border-radius: 6px;
+    color: aliceblue;
+}
+.call{
+    position: relative;
+    top: 16px;
+    padding-left: 10px;
+}
+.website{
+    position: relative;
+    top: 16px;
+    padding-left: 10px;
+}
+.calls{
+    position: relative;
+    color:white;
+    top: 8px;
+}
+.web{
+    position: relative;
+    color:white;
+    top: 8px;
+}
+.navbar1 ul li a{
+    text-decoration: none; 
+    color: black;
+}
+.navbar1 ul li{
+    display: inline;
+    padding-left: 50px;
+}
+.navbar1{
+    position: relative;
+    left: 240px;
+    top: 8px;
+    padding-top: 23px;
+    font-size: 16px;
+}
+#us{
+    text-decoration: underline;
+    font-weight: 600;
+}
+hr{
+    position: relative;
+    top: 20px;
+    left: 275px;
+    width: 950px;
+    color: darkgray;
+}
+.para{
+    position: relative;
+    top: 36px;
+    left: 280px;
+    width: 800px;
+}
+.read{
+    border: none;
+    color: green;
+    position: relative;
+    top: 8px;
+}
+.new1{
+    position: relative;
+    top: 85px;
+}
+.sec{
+    position: relative;
+    top: 110px;
+    left: 278px;
+}
+.column {
+    float: right;
+    width: 30.33%;
+    padding: 5px;
+}
+.row{
+    position: relative;
+    top: 1000px;
+}
